@@ -8,11 +8,11 @@ Flow log data is collected outside of the path of your network traffic, and ther
 
 This quickstart is a guide for ingestion AWS VPC Flowlogs into Snowflake. It demonstrates configuration of VPC flowlogs on AWS, ingestion using an external stage with Snowpipe and sample queries for CSPM and threat detection.
 ## :arrow_right: Prerequisites
-:black_small_square: AWS user with permission to create and manage IAM policies and roles
+**:black_small_square: AWS user with permission to create and manage IAM policies and roles**
 
-:black_small_square: Snowflake user with permission to create tables, stages and storage integrations as well as setup snowpipe.
+**:black_small_square: Snowflake user with permission to create tables, stages and storage integrations as well as setup snowpipe.**
 
-:black_small_square: An S3 Bucket
+**:black_small_square: An S3 Bucket**
 
 ## :jigsaw: Architecture
 ![image](https://github.com/King4424/AWS-VPC-Flow-Logs-Ingestion/assets/121480992/18814baa-124b-4317-b209-e81df30f38d7)
