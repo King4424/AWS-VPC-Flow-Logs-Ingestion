@@ -276,7 +276,7 @@ select interface_id,sum(bytes) as total_bytes from vpc_flow_view where "START" >
 
 6.Explored sample queries to get insights out of your flow logs
 
-
+## :sun_behind_small_cloud: THANK YOU AND WELCOME !!
 
 
 
