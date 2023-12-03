@@ -278,7 +278,7 @@ select interface_id,sum(bytes) as total_bytes from vpc_flow_view where "START" >
 
 ## :sun_behind_small_cloud: THANK YOU AND WELCOME !!
 
-## :snowflake: Subscribe To My YouTube Channel "SnowOps_Hub"
+## :snowflake: Subscribe To My YouTube Channel "**SnowOps_Hub**"
 
 **https://youtu.be/uOBJ-vzA3UY**
 
